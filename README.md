@@ -1,5 +1,7 @@
 # Ontario Property Intelligence Platform
 
+
+🎥 [Watch demo walkthrough](demo-walkthrough.mov)
 A Next.js 14 + Supabase property intelligence system that stores Ontario property data and identifies potential landlord-owned properties using publicly available property datasets.
 
 > **Privacy note:** This system works exclusively with property-level data. No personal contact information is scraped, stored, or displayed.
